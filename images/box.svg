@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="188" height="226" viewBox="0 0 188 226">
+  <defs>
+    <filter id="Rectangle_54" x="0" y="0" width="188" height="226" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_85" x="0" y="0" width="188" height="226" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_54)">
+        <rect id="Rectangle_54-2" data-name="Rectangle 54" width="158" height="196" rx="20" transform="translate(0 0.09)" fill="rgba(255,255,255,0.95)"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="box" transform="translate(10 9.913)">
+    <g transform="matrix(1, 0, 0, 1, -10, -9.91)" filter="url(#Rectangle_85)">
+      <rect id="Rectangle_85-2" data-name="Rectangle 85" width="158" height="196" rx="20" transform="translate(10 10)" fill="#fff"/>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <path id="Path_483" data-name="Path 483" d="M77.857,0A77.857,77.857,0,1,1,0,77.857,77.857,77.857,0,0,1,77.857,0Z" transform="translate(-38.942 73.965)" fill="rgba(241,241,241,0.5)"/>
+      <path id="Path_484" data-name="Path 484" d="M77.857,0A77.857,77.857,0,1,1,0,77.857,77.857,77.857,0,0,1,77.857,0Z" transform="translate(97.308 -98.619)" fill="rgba(241,241,241,0.5)"/>
+    </g>
+  </g>
+</svg>

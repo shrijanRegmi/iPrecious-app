@@ -1,0 +1,164 @@
+name: iprecious
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^0.16.1
+  firebase_auth: ^0.15.3+1
+  cloud_firestore: ^0.13.0+1
+  sliding_up_panel: ^0.3.6
+  intent: ^1.1.0
+  # admob_flutter: ^0.3.4
+  faker: ^1.2.0
+  firebase_storage: ^3.1.1
+  photo_view: ^0.9.1
+  provider: ^4.0.2
+  permission_handler: ^4.4.0+hotfix.1
+  audioplayers: ^0.13.2
+  admob_flutter: ^0.3.4
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/intro1_bottom.svg
+    - images/intro1_center.svg
+    - images/intro1_top.svg
+    - images/intro1_main.svg
+    - images/intro2_main.svg
+    - images/intro2_top.svg
+    - images/intro3_main.svg
+    - images/intro3_bottom.svg
+    - images/home_tab.svg
+    - images/activity_tab.svg
+    - images/exchange_tab.svg
+    - images/buy_tab.svg
+    - images/message_tab.svg
+    - images/menu.svg
+    - images/coins.svg
+    - images/cash.svg
+    - images/gems.svg
+    - images/gaming.svg
+    - images/box.svg
+    - images/gift.svg
+    - images/movie.svg
+    - images/refer.svg
+    - images/bet.svg
+    - images/time.svg
+    - images/arrow.svg
+    - images/buy.svg
+    - images/facebook.svg
+    - images/google.svg
+    - images/welcome_main.svg
+    - images/login_main.svg
+    - images/game_page_main.svg
+    - images/avatars/1.png
+    - images/avatars/2.png
+    - images/avatars/3.png
+    - images/avatars/4.png
+    - images/avatars/5.png
+    - images/avatars/6.png
+    - images/avatars/7.png
+    - images/avatars/8.png
+    - images/avatars/9.png
+    - images/avatars/10.png
+    - images/avatars/11.png
+    - images/avatars/12.png
+    - images/avatars/13.png
+    - images/avatars/14.png
+    - images/avatars/15.png
+    - images/avatars/16.png
+    - images/avatars/17.png
+    - images/avatars/18.png
+    - images/avatars/19.png
+    - images/avatars/20.png
+    - images/avatars/21.png
+    - images/avatars/22.png
+    - images/avatars/23.png
+    - images/avatars/24.png
+    - images/avatars/25.png
+    - images/avatars/26.png
+    - images/avatars/27.png
+    - images/avatars/28.png
+    - images/avatars/29.png
+    - images/avatars/30.png
+    - images/avatars/31.png
+    - images/avatars/32.png
+    - images/avatars/33.png
+    - images/avatars/34.png
+    - images/avatars/35.png
+    - images/avatars/36.png
+    - images/avatars/37.png
+    - images/avatars/38.png
+    - images/avatars/39.png
+    - images/avatars/40.png
+    - images/avatars/41.png
+    - images/avatars/42.png
+    - images/avatars/43.png
+    - images/avatars/44.png
+    - images/avatars/45.png
+    - images/avatars/46.png
+    - images/avatars/47.png
+    - images/avatars/48.png
+    - images/avatars/49.png
+    - images/avatars/50.png
+    - images/avatars/51.png
+    - images/avatars/52.png
+    - assets/music/fearless.mp3
+    - assets/music/happy.mp3
+    - assets/music/epic.mp3
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

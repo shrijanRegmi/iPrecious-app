@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.298" height="25.747" viewBox="0 0 22.298 25.747">
+  <g id="gems" transform="translate(-7.916 -6.604)">
+    <g id="Group_21" data-name="Group 21" transform="translate(7.916 6.604)">
+      <g id="gem" transform="translate(0)">
+        <path id="Path_119" data-name="Path 119" d="M45.446,0,34.3,6.437V19.31l11.149,6.437L56.595,19.31V6.437Z" transform="translate(-34.297)" fill="#82d2ff"/>
+        <path id="Path_120" data-name="Path 120" d="M45.446,12.874V0L34.3,6.437Z" transform="translate(-34.297)" fill="#08b7fc"/>
+        <path id="Path_121" data-name="Path 121" d="M256,256Z" transform="translate(-244.851 -243.126)" fill="#82d2ff"/>
+        <path id="Path_122" data-name="Path 122" d="M34.3,128v12.874l11.149-6.437Z" transform="translate(-34.297 -121.563)" fill="#006dff"/>
+        <path id="Path_123" data-name="Path 123" d="M267.149,128h0L256,134.437h0l11.149,6.437h0Z" transform="translate(-244.851 -121.563)" fill="#08b7fc"/>
+        <path id="Path_124" data-name="Path 124" d="M45.446,256,34.3,262.437l11.149,6.437Z" transform="translate(-34.297 -243.126)" fill="#0050c0"/>
+        <path id="Path_125" data-name="Path 125" d="M256,268.874l11.149-6.437L256,256Z" transform="translate(-244.851 -243.126)" fill="#006dff"/>
+        <path id="Path_126" data-name="Path 126" d="M143.463,122.421v-7.265l-6.292-3.633-6.292,3.633v7.265l6.292,3.633Z" transform="translate(-126.022 -105.915)" fill="#82d2ff"/>
+        <path id="Path_127" data-name="Path 127" d="M262.292,122.421v-7.265L256,111.523v14.531Z" transform="translate(-244.851 -105.915)" fill="#55cbff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "305723585158",
+    "firebase_url": "https://iprecious-c8bf8.firebaseio.com",
+    "project_id": "iprecious-c8bf8",
+    "storage_bucket": "iprecious-c8bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305723585158:android:99551c3b773f075f7c9707",
+        "android_client_info": {
+          "package_name": "com.ilyyhs9.iprecious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305723585158-0u8d6254i8moa7r19v47qvsl7c3bfdph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwy4iXyTPythSFyiZGXpUxlmav931z-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305723585158-0u8d6254i8moa7r19v47qvsl7c3bfdph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305723585158:android:4a6ff789ef5e29087c9707",
+        "android_client_info": {
+          "package_name": "com.ilyyhs9.iprecious_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305723585158-0u8d6254i8moa7r19v47qvsl7c3bfdph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwy4iXyTPythSFyiZGXpUxlmav931z-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305723585158-0u8d6254i8moa7r19v47qvsl7c3bfdph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305723585158:android:9a0d06119840e9f77c9707",
+        "android_client_info": {
+          "package_name": "com.ilyyhs9.precious_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305723585158-0u8d6254i8moa7r19v47qvsl7c3bfdph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwy4iXyTPythSFyiZGXpUxlmav931z-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305723585158-0u8d6254i8moa7r19v47qvsl7c3bfdph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
